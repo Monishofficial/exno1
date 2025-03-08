@@ -1,5 +1,4 @@
-# Exno:1
-Data Cleaning Process
+[EXP-1.pdf](https://github.com/user-attachments/files/19141859/EXP-1.pdf)# Exno:1 Data Cleaning Process
 
 # AIM
 To read the given data and perform data cleaning and save the cleaned data to a file.
@@ -21,6 +20,7 @@ STEP 5: Remove outliers using IQR
 STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
-            <<include your coding and its corressponding output screen shots here>>
+
+
 # Result
           <<include your Result here>>
