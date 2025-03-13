@@ -68,11 +68,6 @@ df.isnull().any()
 ![Screenshot 2025-03-12 133654](https://github.com/user-attachments/assets/38f18d16-7b0b-48a1-93cc-60e780d81b78)
 
 ```
-df.fillna(0)
-```
-![Screenshot 2025-03-12 133812](https://github.com/user-attachments/assets/c0cd7fd2-30dd-4b96-8d02-910611881389)
-
-```
 df.fillna(method = 'ffill')
 ```
 ![Screenshot 2025-03-12 133848](https://github.com/user-attachments/assets/41d33cea-3240-4091-95e5-6fa426063fe7)
@@ -91,7 +86,7 @@ df_dropped
 ```
 df.fillna({'GENDER':'MALE','NAME':'MONISH','ADDRESS':'PONDICHERRY','M1':'98','M2':'93','M3':'97','M4':'84','TOTAL':'369','AVG':'93.6'})
 ```
-![Screenshot 2025-03-13 092403](https://github.com/user-attachments/assets/0b397fb0-1e2c-4aa8-9e49-59ae26806ab9)
+![Screenshot 2025-03-13 092403](https://github.com/user-attachments/assets/dbf698ab-0150-4772-9d1f-c358143e8e13)
 
 ```
 iris=pd.read_csv('/content/iris.csv')
