@@ -51,7 +51,7 @@ df.notnull()
 ```
 df.fillna('$')
 ```
-![Screenshot 2025-03-08 114043](https://github.com/user-attachments/assets/c04e0d2e-1bf8-4899-951b-1d95a111b464)
+![Screenshot 2025-03-13 091118](https://github.com/user-attachments/assets/5344bb35-0c8d-4d6f-a601-a8fff34a0327)
 
 ```
 df.dropna()
